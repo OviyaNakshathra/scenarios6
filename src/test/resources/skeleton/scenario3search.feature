@@ -10,4 +10,4 @@ And user enters the search product as "Head"
 Then click on the find button
 Examples:
 |username|password|
-|AlexUser|Alex@123| 
+|Lalitha|Password123| 
