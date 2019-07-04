@@ -7,5 +7,5 @@ And Click Submit button
 Then verify login success 
 Examples:
 |username|password|
-|AlexUser|Alex@123|
+|Lalitha|Password123|
   
